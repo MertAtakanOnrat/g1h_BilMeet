@@ -11,8 +11,10 @@ People can sometimes have problems with socializing. This situation can be very 
    
 ![alt text](https://i.resimyukle.xyz/0df4N7.png)
 ![alt text](https://i.resimyukle.xyz/KQSQ4V.png)
+
 ![alt text](https://i.resimyukle.xyz/eT1AMx.png)
 ![alt text](https://i.resimyukle.xyz/ACyeN2.png)
+
 ![alt text](https://i.resimyukle.xyz/zH9Iax.png)
 ![alt text](https://i.resimyukle.xyz/e3KB5P.png)
 
@@ -26,11 +28,11 @@ People can sometimes have problems with socializing. This situation can be very 
 
 [Group Meetings Log](group/meetingslog.md)
 #### Group Members
-- Mert Atakan Onrat (group/Mert_Atakan_Onrat_log.md)    _(full name & link to personal log file)_
-- Tuğberk Dikmen (group/Tugberk_Dikmen_log.md)
-- Oğulcan Karakollukçu (group/Ogulcan_Karakollukcu_log.md)
-- Ahmet Faruk Ulutaş (group/Ahmet_Faruk_Ulutas_log.md)
-- Bartu Teber (group/Bartu_Teber_log.md)
+- Mert Atakan Onrat (group/Mert_Atakan_Onrat_log.md) https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/group/Mert_Atakan_Onrat_log.md
+- Tuğberk Dikmen (group/Tugberk_Dikmen_log.md) https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/group/Tugberk_Dikmen_log.md
+- Oğulcan Karakollukçu (group/Ogulcan_Karakollukcu_log.md) https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/group/Ogulcan_Karakollukcu_log.md
+- Ahmet Faruk Ulutaş (group/Ahmet_Faruk_Ulutas_log.md) https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/group/Ahmet_Faruk_Ulutas_log.md
+- Bartu Teber (group/Bartu_Teber_log.md) https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/group/Teber_Bartu_log.md
 
 ****
 **Instructor:** David Davenport   **TA:**  Orhun Çağlayan
