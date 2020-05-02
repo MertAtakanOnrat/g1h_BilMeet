@@ -18,6 +18,8 @@ People can sometimes have problems with socializing. This situation can be very 
 ![alt text](https://i.resimyukle.xyz/zH9Iax.png)
 ![alt text](https://i.resimyukle.xyz/e3KB5P.png)
 
+![alt text](https://i.resimyukle.xyz/70eAT9.png)
+
 ## Project Status
 + **Group/project Selection:** completed (16.02.2020)
 + **Requirements:** completed (23.02.2020)
