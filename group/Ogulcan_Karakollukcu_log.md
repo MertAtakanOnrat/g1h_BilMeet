@@ -9,5 +9,7 @@ On This page I will keep a weekly record of what I have done for the CS102 group
 So far, I have made the event list page of our application.I learned how android studio works. While doing this page, I learned to make the components visible and invisible and to adjust the position of the panels aesthetically.
 I had some difficulties in coding the actions that should be done when we click on the buttons, but I got over it.Apart from these, I tried to help my group friends as much as I could.
 
+### ~ from 02.05.2020 until 11.05.2020 ~
+We tried to combine the parts we made under one project. We got various errors (null reference, null pointers, package errors ...). We corrected most of the errors and combined some parts. I also create the 'Create an Event' page that allows user to create an even with specific name and type.
 
 ****
