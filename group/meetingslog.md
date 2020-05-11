@@ -13,4 +13,12 @@ As a group, we discussed the design of the project and determined its details. T
 **ToDo:** As a group, we will combine the designs that we make piece by piece. Then we will work on the database (firebase).
 
 ****
+### Meeting ~ ( 10.05.2020-11.05.2020, 4 hours )
+****
+**Present:** Mert Atakan Onrat, Tuğberk Dikmen, Oğulcan Karakollukçu, Ahmet Faruk Ulutaş, Bartu Teber  _**Absent:**_
+
+**Discussion:** 
+We tried to combine the parts we made under one project. We got various errors (null reference, null pointers, package errors ...). We corrected most of the errors and combined some parts. However, there are still things to be done on this subject.
+
+**ToDo:** We try to fix our remaining mistakes and combine the parts we make.
 ****
