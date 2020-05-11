@@ -11,6 +11,7 @@ People can sometimes have problems with socializing. This situation can be very 
    
 ![alt text](https://i.resimyukle.xyz/HRf7NO.png)
 ![alt text](https://i.resimyukle.xyz/KQSQ4V.png)
+![alt text](https://i.resimyukle.xyz/HNcNdW.png)
 
 ![alt text](https://i.resimyukle.xyz/eT1AMx.png)
 ![alt text](https://i.resimyukle.xyz/ACyeN2.png)
