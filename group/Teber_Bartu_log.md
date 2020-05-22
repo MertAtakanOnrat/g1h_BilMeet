@@ -11,4 +11,7 @@ I learn basic tools and use of Android Studio by reading and watching tutorials.
 ### 02.05.2020 - 10.05.2020
 We made a research about firebase and how to store the usernames and passwords of users to let them log in we are still working on it. Also as a group we try to combine all of our parts. We encountered with some errors, we solved most and still trying to solve the rest. 
 
+### 02.05.2020 - 10.05.2020
+In this week we have worked on the pins on the map and how to connect them with creating event activities. Also we use onTouchEvent() to make the pins clickable so that the event list in that area can be shown. 
+
 ****
