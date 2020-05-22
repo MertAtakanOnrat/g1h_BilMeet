@@ -30,4 +30,4 @@ We tried to combine the parts we made under one project. We got various errors (
 We tried to solve general bugs and mistakes. In addition we added Dave Morresey GitHub library to use zoomable and pinable image properties(This part took a lot of time to complete.) We created connection between the pins and events that should appear when user clicked the pin which is on the map. 
 
 **ToDo:** 
-**** We will try to solve remaining bugs and adjust the Fire Base.
+**** We will try to solve remaining bugs and adjust the Data Base.
