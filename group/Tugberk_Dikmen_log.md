@@ -13,7 +13,7 @@ While compleating those steps we brainstormed about the erros that we had. When 
 ### ~ 02.05.2020 - 10.05.2020 ~
 In this week I worked on how to add and implement markers and buttons to the zoomable image view on android studio.
 In addition, I sperated the map view into three part in order to make it more easy for users. Last, we worked on combining all the the part of the project ass a group.
-### ~ 10.05.2020 - 20.05.2020 ~
+### ~ 10.05.2020 - 18.05.2020 ~
 In this week we worked on adding adjustable pin activity to our image map and also linking it to events part and creating event part.
 We also encountered with the problems and errors that occured while linking activities to eachother and solved those problems.
 ****
