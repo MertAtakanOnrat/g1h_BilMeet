@@ -14,4 +14,7 @@ We tried to combine the parts we made under one project. We got various errors (
 
 ### ~ from 11.05.2020 until 18.05.2020 ~
 This week we first worked on adding a location cursor on the map. Tuğberk and i figured out how to integrate library that Tuğberk found about this situation into our own code and add it to our code. We fixed some errors in the code. Then, when I clicked the cursors on the map, I tried to get the activities of that region to come.
+
+### ~ from 18.05.2020 until 25.05.2020 ~
+This week we started the firebase installation and took the promotional video of our application. I installed firebase with my google account and added our own project to it. I tried to save the bilkent mail and password on the registration screen of our application and I succeeded.
 ****
