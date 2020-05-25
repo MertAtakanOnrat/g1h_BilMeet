@@ -36,7 +36,7 @@ We tried to solve general bugs and mistakes. In addition we added Dave Morresey 
 **Present:** Mert Atakan Onrat, Tuğberk Dikmen, Oğulcan Karakollukçu, Ahmet Faruk Ulutaş, Bartu Teber  _**Absent:**_
 
 **Discussion:** 
-We worked on some of the errors we received. Create an event part has been redone. We researched and set up firebase about the group. Later, we initially added and edited the codes required to create users and login to the application. In the meantime, we made adjustments to some XML views.
+We worked on some of the errors we received. Create an event part has been redone. We researched and set up firebase about the group. Later, we initially added and edited the codes required to create users and login to the application. In the meantime, we made adjustments to some XML views. We also prepared group reports and project demo.
 
 **ToDo:** In our application, we will complete the remaining sections related to the database. Then we will organize a few minor bugs and our project will be completed.
 ****
