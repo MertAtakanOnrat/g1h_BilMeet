@@ -31,7 +31,7 @@ We tried to solve general bugs and mistakes. In addition we added Dave Morresey 
 
 **ToDo:**  We will try to solve remaining bugs and adjust the Data Base.
 ****
-### Meeting ~ ( 25.05.2020 - 31.05.2020, 12 hours )
+### Meeting ~ ( 18.05.2020 - 25.05.2020, 12 hours )
 ****
 **Present:** Mert Atakan Onrat, Tuğberk Dikmen, Oğulcan Karakollukçu, Ahmet Faruk Ulutaş, Bartu Teber  _**Absent:**_
 
