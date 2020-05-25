@@ -29,5 +29,14 @@ We tried to combine the parts we made under one project. We got various errors (
 **Discussion:** 
 We tried to solve general bugs and mistakes. In addition we added Dave Morresey GitHub library to use zoomable and pinable image properties(This part took a lot of time to complete.) We created connection between the pins and events that should appear when user clicked the pin which is on the map. 
 
-**ToDo:** 
-**** We will try to solve remaining bugs and adjust the Data Base.
+**ToDo:**  We will try to solve remaining bugs and adjust the Data Base.
+****
+### Meeting ~ ( 25.05.2020 - 31.05.2020,  hours )
+****
+**Present:** Mert Atakan Onrat, Tuğberk Dikmen, Oğulcan Karakollukçu, Ahmet Faruk Ulutaş, Bartu Teber  _**Absent:**_
+
+**Discussion:** 
+We worked on some of the errors we received. Create an event part has been redone. We researched and set up firebase about the group. Later, we initially added and edited the codes required to create users and login to the application. In the meantime, we made adjustments to some XML views.
+
+**ToDo:** In our application, we will complete the remaining sections related to the database. Then we will organize a few minor bugs and our project will be completed.
+****
