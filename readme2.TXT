@@ -43,6 +43,8 @@ single method, so we had to write a new method for each cursor, I solved this pr
 these cursors tactile and made them show the events that happened in that area. Finally, I added firebase to the register section and I
 saved the emails to firebase. I set this part to accept only bilkent webmail and I sent a verification mail to every mail. I wrote a
 page so that if the verification mail cannot be sent, the user will not be affected and can request verification mail again.
+We couldn't make the transition from fragment classes to activity classes and we couldn't access the components in fragment xmls.
+I solved that bug.
 
 - Ahmet Faruk Ulutaş: I made the user interface of the profile section. It was a good start to learn xml and make android user interface. In 
 the application registration section, I solved various bugs such as the user interface not fitting completely on the screen or not being 
