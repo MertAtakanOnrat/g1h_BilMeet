@@ -14,4 +14,7 @@ We made a research about firebase and how to store the usernames and passwords o
 ### 10.05.2020 - 18.05.2020
 In this week we have worked on the pins on the map and how to connect them with creating event activities. Also we use onTouchEvent() to make the pins clickable so that the event list in that area can be shown. 
 
+### 18.05.2020 - 25.05.2020
+In this week I had a research about firebase and we set up the firebase into our project. We also fixed some of the errors. 
+
 ****
