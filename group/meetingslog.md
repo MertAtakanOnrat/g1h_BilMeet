@@ -40,3 +40,12 @@ We worked on some of the errors we received. Create an event part has been redon
 
 **ToDo:** In our application, we will complete the remaining sections related to the database. Then we will organize a few minor bugs and our project will be completed.
 ****
+### Meeting ~ ( 25.05.2020 - 28.05.2020, 12 hours )
+****
+**Present:** Mert Atakan Onrat, Tuğberk Dikmen, Oğulcan Karakollukçu, Ahmet Faruk Ulutaş, Bartu Teber  _**Absent:**_
+
+**Discussion:** 
+Arrangements for user creation and login have been completed. Arrangements have been made for sizing of some XML files. GitHub logs are edited.
+
+**ToDo:** Uploading the project final code to the moodle.
+****
