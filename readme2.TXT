@@ -32,13 +32,7 @@ we can list the events we wrote on the event page. We can choose when we click t
 In addition, our application size does not work for all devices. We tried the test part only for nexus 5.
 
 #### Group Members
-- Mert Atakan Onrat
-My task was to create Settings page. I tried to update Profile. I made address, biography and facebook parts modifiable. After changing 
-these parts if the done button is pressed, they are saved. Even if user exits and re-run the program, the modified parts remain up to 
-date. The saved parts are sent to Profile2. I used Intent to move between Activity to Activity or Fragment to Activity. Also I helped my 
-group to solve some of the problems we encountered. We couldn't open the MainActivity from LoginFragment. After clicking login button we 
-couldn't open MainActivity and the application stopped itself. However, I was using the codes in Profile that moves us from 
-ProfileFragment to Settings. Then I used same codes to LoginFragment and then the problem is solved.
+- Mert Atakan Onrat 
 - Tuğberk Dikmen 
 - Oğulcan Karakollukçu 
 /At first I dealt with the appearance of the event page. This page writes the name of the events, the type, the remaining time and there
@@ -49,8 +43,6 @@ single method, so we had to write a new method for each cursor, I solved this pr
 these cursors tactile and made them show the events that happened in that area. Finally, I added firebase to the register section and I
 saved the emails to firebase. I set this part to accept only bilkent webmail and I sent a verification mail to every mail. I wrote a
 page so that if the verification mail cannot be sent, the user will not be affected and can request verification mail again.
-We couldn't make the transition from fragment classes to activity classes and we couldn't access the components in fragment xmls.
-I solved that bug.
 
 - Ahmet Faruk Ulutaş: I made the user interface of the profile section. It was a good start to learn xml and make android user interface. In 
 the application registration section, I solved various bugs such as the user interface not fitting completely on the screen or not being 
@@ -63,6 +55,7 @@ wrote a few codes so that we can use the library in general. I kept assignments 
 traced the mistakes faced by other group members and resolved these bugs.
 
 - Bartu Teber 
+I made the log in and registration page and connect its activities to the main screen of our app. It was instructive for me to learn the xml layout and design of a user interface and connecting activities or fragments. It was a bit challenging for us to add clickable pins on the map. I worked on onTouchEvent() so that the dialog appears when the pin is clicked. I worked on firebase and set it up to our project.
 
 ## Details About the Project
 We used the current version of Android studio. (3.6.3) We also used firebase for the database part. (17.4.2) We also used github to store 
