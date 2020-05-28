@@ -38,7 +38,8 @@ these parts if the done button is pressed, they are saved. Even if user exits an
 date. The saved parts are sent to Profile2. I used Intent to move between Activity to Activity or Fragment to Activity. Also I helped my 
 group to solve some of the problems we encountered. We couldn't open the MainActivity from LoginFragment. After clicking login button we 
 couldn't open MainActivity and the application stopped itself. However, I was using the codes in Profile that moves us from 
-ProfileFragment to Settings. Then I used same codes to LoginFragment and then the problem is solved.
+ProfileFragment to Settings. Then I used same codes to LoginFragment and then the problem is solved. I tried to help my group to set up 
+the Firebase.
 - Tuğberk Dikmen 
 - Oğulcan Karakollukçu 
 /At first I dealt with the appearance of the event page. This page writes the name of the events, the type, the remaining time and there
