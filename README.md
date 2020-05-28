@@ -11,16 +11,16 @@ People can sometimes have problems with socializing. This situation can be very 
    
 ![alt text](https://i.resimyukle.xyz/fQ4734.png)
 ![alt text](https://i.resimyukle.xyz/SVP60f.png)
-![alt text](https://i.resimyukle.xyz/HNcNdW.png)
 
-![alt text](https://i.resimyukle.xyz/eT1AMx.png)
-![alt text](https://i.resimyukle.xyz/ACyeN2.png)
-
-![alt text](https://i.resimyukle.xyz/zH9Iax.png)
 ![alt text](https://i.resimyukle.xyz/e3KB5P.png)
+![alt text](https://i.resimyukle.xyz/5VI0fQ.png)
+![alt text](https://i.resimyukle.xyz/x223OV.png)
+![alt text](https://i.resimyukle.xyz/QQx089.png)
 
 ![alt text](https://i.resimyukle.xyz/70eAT9.png)
 ![alt text](https://i.resimyukle.xyz/W2Cedf.jpeg)
+
+![alt text](https://i.resimyukle.xyz/HNcNdW.png)
 
 ## Project Status
 + **Group/project Selection:** completed (16.02.2020)
