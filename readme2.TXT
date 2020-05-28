@@ -55,7 +55,10 @@ wrote a few codes so that we can use the library in general. I kept assignments 
 traced the mistakes faced by other group members and resolved these bugs.
 
 - Bartu Teber 
-I made the log in and registration page and connect its activities to the main screen of our app. It was instructive for me to learn the xml layout and design of a user interface and connecting activities or fragments. It was a bit challenging for us to add clickable pins on the map. I worked on onTouchEvent() so that the dialog appears when the pin is clicked. I worked on firebase and set it up to our project.
+I made the log in and registration page and connect its activities to the main screen of our app. It was instructive for me to
+learn the xml layout and design of a user interface and connecting activities or fragments. It was a bit challenging for us to
+add clickable pins on the map. I worked on onTouchEvent() so that the dialog appears when the pin is clicked. I worked on
+firebase and set it up to our project.
 
 ## Details About the Project
 We used the current version of Android studio. (3.6.3) We also used firebase for the database part. (17.4.2) We also used github to store 
