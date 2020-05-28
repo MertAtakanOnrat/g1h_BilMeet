@@ -43,7 +43,17 @@ single method, so we had to write a new method for each cursor, I solved this pr
 these cursors tactile and made them show the events that happened in that area. Finally, I added firebase to the register section and I
 saved the emails to firebase. I set this part to accept only bilkent webmail and I sent a verification mail to every mail. I wrote a
 page so that if the verification mail cannot be sent, the user will not be affected and can request verification mail again.
-- Ahmet Faruk Ulutaş 
+
+- Ahmet Faruk Ulutaş: I made the user interface of the profile section. It was a good start to learn xml and make android user interface. In 
+the application registration section, I solved various bugs such as the user interface not fitting completely on the screen or not being 
+able to come back from the XML layouts in showing the events. The Create an Event section was not working correctly. I completely redesigned 
+that part. Thus, the event name became indian and the type and duration of the event was selectable. When I click on the image in the 
+Profile section, I opened the dialog and opened the report button. Thus, the user could be reported. I made the installation part of 
+Firebase and adding it to the project. I wrote the method that creates an intent for the profile part and for a few other parts in order to 
+switch from the activity to the activity. At the same time, I found the github library so that the pictures can be zoomed and pinned, and I 
+wrote a few codes so that we can use the library in general. I kept assignments and github meetings logs to be added to Moodle. Also, I 
+traced the mistakes faced by other group members and resolved these bugs.
+
 - Bartu Teber 
 
 ## Details About the Project
