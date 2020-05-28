@@ -44,8 +44,8 @@ the Firebase.
 - Tuğberk Dikmen 
 I specifically created the menu interface that allows the user to switch between pages and added it to the application. In addition, I 
 made sure that the image map was added to the application and that it was zoomable and scrollable. I worked on adding a mark on the 
-image maps and when these marks were clicked, I worked on showing the events there. In addition, I took part in the solution of the 
-errors we encountered during the whole project process. I helped research and add Fire Fire.
+image maps and when these marks were clicked, showing the events there. In addition, I took part in finding the solutions of the 
+errors we encountered during the whole project process. I helped to research and add Fire Base to our project.
 
 - Oğulcan Karakollukçu 
 At first I dealt with the appearance of the event page. This page writes the name of the events, the type, the remaining time and there
