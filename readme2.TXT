@@ -40,9 +40,15 @@ group to solve some of the problems we encountered. We couldn't open the MainAct
 couldn't open MainActivity and the application stopped itself. However, I was using the codes in Profile that moves us from 
 ProfileFragment to Settings. Then I used same codes to LoginFragment and then the problem is solved. I tried to help my group to set up 
 the Firebase.
+
 - Tuğberk Dikmen 
+I specifically created the menu interface that allows the user to switch between pages and added it to the application. In addition, I 
+made sure that the image map was added to the application and that it was zoomable and scrollable. I worked on adding a mark on the 
+image maps and when these marks were clicked, I worked on showing the events there. In addition, I took part in the solution of the 
+errors we encountered during the whole project process. I helped research and add Fire Fire.
+
 - Oğulcan Karakollukçu 
-/At first I dealt with the appearance of the event page. This page writes the name of the events, the type, the remaining time and there
+At first I dealt with the appearance of the event page. This page writes the name of the events, the type, the remaining time and there
 is a create an event button in the upper right corner and a filter button just below it to filter the events according to their types.
 I designed the screen that opened when I pressed the create an event button, but later Faruk improved it with a more beautiful look.
 Then I added a location cursor with tugberk, which can be zoomed in and out on the Bilkent map. We couldn't add these cursors with a
@@ -51,7 +57,8 @@ these cursors tactile and made them show the events that happened in that area. 
 saved the emails to firebase. I set this part to accept only bilkent webmail and I sent a verification mail to every mail. I wrote a
 page so that if the verification mail cannot be sent, the user will not be affected and can request verification mail again.
 
-- Ahmet Faruk Ulutaş: I made the user interface of the profile section. It was a good start to learn xml and make android user interface. In 
+- Ahmet Faruk Ulutaş
+I made the user interface of the profile section. It was a good start to learn xml and make android user interface. In 
 the application registration section, I solved various bugs such as the user interface not fitting completely on the screen or not being 
 able to come back from the XML layouts in showing the events. The Create an Event section was not working correctly. I completely redesigned 
 that part. Thus, the event name prompt became hint and the type and duration of the event was selectable. When I click on the image in the 
