@@ -13,4 +13,6 @@ I created a dialog xml file so that the user can be reported on the user page. I
 I made researches on transitions between activities, adding pins to the map and opening a dialog when the pin was clicked. We installed the library I found for adding pins. We added it to our project with the codes we wrote. When we clicked Pin, we wrote new XMLs to view the events. Then we showed the XMLs we wrote by adding a listener to the pins. We had many errors to add pins. It took a little bit of time. I also corrected the bugs due to XML in the event display.
 ### ~ 18.05.2020 - 25.05.2020 ~
 I re-created the create an event part because the save button in the event creation section caused an application crash and the menuButtons did not work properly. As a group, we did research on firebase. We installed Firebase and initially added the ability to create users and log in with the database. Meanwhile, we arranged the home screen according to the required features. (student number, mail, etc.)
+### ~ 25.05.2020 - 28.05.2020 ~
+I made arrangements regarding the user creation and login section. I have edited the portions that do not appear to originate from the emulator size. I made the final arrangements and uploading the project with my group members.
 ****
