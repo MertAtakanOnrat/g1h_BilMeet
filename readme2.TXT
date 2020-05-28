@@ -39,4 +39,8 @@ In addition, our application size does not work for all devices. We tried the te
 - Bartu Teber 
 
 ## Details About the Project
-We used the current version of Android studio. (3.6.3) We also used firebase for the database part. (17.4.2) We also used github to store and continue our project. (2.20.8) In order to provide various features in our project (zooming, panning and pinning) we used davemorrissey's github library. (https://github.com/davemorrissey/subsampling-scale-image-view) (3.10.0) In order to test, we download the project as github, unzip it and select the file we extracted from android studio by saying open file / project. . Waiting for a while after choosing, android studio automatically compiles and prepares the project. Then we can run the application with Nexus 5 API 25.
+We used the current version of Android studio. (3.6.3) We also used firebase for the database part. (17.4.2) We also used github to store 
+and continue our project. (2.20.8) In order to provide various features in our project (zooming, panning and pinning) we used 
+davemorrissey's github library. (https://github.com/davemorrissey/subsampling-scale-image-view) (3.10.0) In order to test, we download the 
+project as github, unzip it and select the file we extracted from android studio by saying open file / project. . Waiting for a while after 
+choosing, android studio automatically compiles and prepares the project. Then we can run the application with Nexus 5 API 25.
