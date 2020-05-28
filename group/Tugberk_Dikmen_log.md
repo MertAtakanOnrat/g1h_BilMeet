@@ -17,6 +17,7 @@ In addition, I sperated the map view into three part in order to make it more ea
 In this week I worked on adding adjustable pin activity to our image map and also linking it to events part and creating event part.
 We also encountered with the problems and errors that occured while linking activities to eachother and solved those problems.
 ### ~ 10.05.2020 - 18.05.2020 ~
-In this week I made a research about how to add FireBase to our project. We added the FireBase into our project.
+In this week we worked on solving some remaining errors. Furthermore I made a research about how to add FireBase to our project. 
+We set up the FireBase into our project.
 
 ****
