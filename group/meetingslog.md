@@ -40,7 +40,7 @@ We worked on some of the errors we received. Create an event part has been redon
 
 **ToDo:** In our application, we will complete the remaining sections related to the database. Then we will organize a few minor bugs and our project will be completed.
 ****
-### Meeting ~ ( 25.05.2020 - 28.05.2020, 12 hours )
+### Meeting ~ ( 25.05.2020 - 28.05.2020, 4 hours )
 ****
 **Present:** Mert Atakan Onrat, Tuğberk Dikmen, Oğulcan Karakollukçu, Ahmet Faruk Ulutaş, Bartu Teber  _**Absent:**_
 
