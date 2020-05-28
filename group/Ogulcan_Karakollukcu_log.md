@@ -17,4 +17,6 @@ This week we first worked on adding a location cursor on the map. Tuğberk and i
 
 ### ~ from 18.05.2020 until 25.05.2020 ~
 This week we started the firebase installation and took the promotional video of our application. I installed firebase with my google account and added our own project to it. I tried to save the bilkent mail and password on the registration screen of our application and I succeeded.
+### ~ from 25.05.2020 until 28.05.2020 ~
+In these 3 days, I set up the register page to accept bilkent mail only. I checked if the entered passwords match each other. I changed the student number to only accept 8 digits and added error text. In order to find out whether each mail really belongs to the person, I ensured that the verification mail was sent and I directed it to a page where the user could ask for a code again so that the user would not be in a difficult situation if it could not be sent.
 ****
