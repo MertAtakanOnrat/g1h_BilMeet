@@ -28,8 +28,8 @@ People can sometimes have problems with socializing. This situation can be very 
 + **Group/project Selection:** completed (16.02.2020)
 + **Requirements:** completed (23.02.2020)
 + **UI Design:** completed (15.03.2020)
-+ **Detailed Design:** in progress
-+ **Implementation:** not started!
++ **Detailed Design:** (21.05.2020)
++ **Implementation:** (28.05.2020)
 + **Reflections:** (28.05.2020)
 
 [Group Meetings Log](group/meetingslog.md)
