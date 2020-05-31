@@ -30,7 +30,7 @@ People can sometimes have problems with socializing. This situation can be very 
 + **UI Design:** completed (15.03.2020)
 + **Detailed Design:** in progress
 + **Implementation:** not started!
-+ **Reflections:** not yet!
++ **Reflections:** (28.05.2020)
 
 [Group Meetings Log](group/meetingslog.md)
 #### Group Members
