@@ -9,20 +9,17 @@ The information and code in this repository are submitted in partial fulfillment
 ## Project Description
 People can sometimes have problems with socializing. This situation can be very annoying, especially for university students. With this application, we aim to get used to people who are shy and cannot make many friends. Moreover, enabling people to easily find places where the activities they attend or to organize events easily.
    
-![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/Screenshot_1638033188.png)
-![alt text](https://i.resimyukle.xyz/SVP60f.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/1.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/2.png)
 
-![alt text](https://i.resimyukle.xyz/K767MI.png)
-![alt text](https://i.resimyukle.xyz/5VI0fQ.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/3.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/4.png)
 
-![alt text](https://i.resimyukle.xyz/x223OV.png)
-![alt text](https://i.resimyukle.xyz/QQx089.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/5.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/6.png)
 
-![alt text](https://i.resimyukle.xyz/VPxRz2.png)
-![alt text](https://i.resimyukle.xyz/B24zAN.png)
-
-![alt text](https://i.resimyukle.xyz/f0NCTP.png)
-![alt text](https://i.resimyukle.xyz/HNcNdW.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/7.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/8.png)
 
 ## Project Status
 + **Group/project Selection:** completed (16.02.2020)
