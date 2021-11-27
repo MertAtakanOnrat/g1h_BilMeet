@@ -10,20 +10,20 @@ The information and code in this repository are submitted in partial fulfillment
 People can sometimes have problems with socializing. This situation can be very annoying, especially for university students. With this application, we aim to get used to people who are shy and cannot make many friends. Moreover, enabling people to easily find places where the activities they attend or to organize events easily.
    
 <p float="left">
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/1.png" width="250" height="250" />
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/2.png" width="250" height="250" />
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/3.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/1.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/2.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/3.png" width="250" height="250" />
 </p>
 
 <p float="left">
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/4.png" width="250" height="250" />
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/5.png" width="250" height="250" />
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/6.PNG" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/4.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/5.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/6.PNG" width="250" height="250" />
 </p>
 
 <p float="left">
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/7.png" width="250" height="250" />
-<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/8.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/7.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/screenshots/8.png" width="250" height="250" />
 </p>
                                                                                           
 ## Project Status
