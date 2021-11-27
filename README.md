@@ -9,9 +9,11 @@ The information and code in this repository are submitted in partial fulfillment
 ## Project Description
 People can sometimes have problems with socializing. This situation can be very annoying, especially for university students. With this application, we aim to get used to people who are shy and cannot make many friends. Moreover, enabling people to easily find places where the activities they attend or to organize events easily.
    
+<p float="left">
 <img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/1.png" width="250" height="250" />
 <img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/2.png" width="250" height="250" />
-
+</p>
+                                                                                          
 ## Project Status
 + **Group/project Selection:** completed (16.02.2020)
 + **Requirements:** completed (23.02.2020)
