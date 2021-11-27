@@ -12,6 +12,7 @@ People can sometimes have problems with socializing. This situation can be very 
 <p float="left">
 <img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/1.png" width="250" height="250" />
 <img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/2.png" width="250" height="250" />
+<img src="https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/3.png" width="250" height="250" />
 </p>
                                                                                           
 ## Project Status
