@@ -9,7 +9,7 @@ The information and code in this repository are submitted in partial fulfillment
 ## Project Description
 People can sometimes have problems with socializing. This situation can be very annoying, especially for university students. With this application, we aim to get used to people who are shy and cannot make many friends. Moreover, enabling people to easily find places where the activities they attend or to organize events easily.
    
-![alt text](https://i.resimyukle.xyz/fQ4734.png)
+![alt text](https://github.com/MertAtakanOnrat/g1h_BilMeet/blob/master/Screenshot_1638033188.png)
 ![alt text](https://i.resimyukle.xyz/SVP60f.png)
 
 ![alt text](https://i.resimyukle.xyz/K767MI.png)
